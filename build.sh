@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello from Jenkins!"
+echo "Hello from the build script!"
